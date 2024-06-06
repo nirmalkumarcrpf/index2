@@ -12,12 +12,12 @@
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 </head>
     <style>
-        body {
+        .body {
     background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
     font-family: 'Poppins', sans-serif;
 }
 
-#form {
+.form {
     width: 300px;
     margin: 20vh auto 0 auto;
     padding: 20px;
@@ -26,12 +26,12 @@
     font-size: 12px;
 }
 
-#form h1 {
+.form h1 {
     color: #0f2027;
     text-align: center;
 }
 
-#form button {
+.form button {
     padding: 10px;
     margin-top: 10px;
     width: 100%;
